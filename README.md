@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hey, I'm Max Ai 👋
 
-<!--
-**letmemeng-crypto/letmemeng-crypto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an indie maker who loves exploring fun AI tools and building things on the internet.
 
-Here are some ideas to get you started:
+### 🚀 My Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[Rumpelstiltskin AI Video Generator](https://rumpelstiltskin-ai-video.com/)**
+
+Turn your photos into fun Rumpelstiltskin AI dance videos. Upload one or two photos, choose your style, and create your own dancing meme.
+
+### 🧪 What I'm Into
+
+- Exploring creative AI tools
+- Building fun and useful web apps
+- Experimenting with AI video generation
+- Sharing what I discover along the way
+
+More projects coming soon!
